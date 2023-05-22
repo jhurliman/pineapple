@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/components/arduino/libraries/BLE/src",
+                "${workspaceFolder}/components/arduino/libraries/FastLED/src",
+                "${workspaceFolder}/components/arduino/libraries/NimBLE-Arduino/src",
+                "${workspaceFolder}/components/arduino/tools/sdk/esp32/include/bt/include/esp32/include",
+                "${workspaceFolder}/components/arduino/tools/sdk/esp32/include/newlib/platform_include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}

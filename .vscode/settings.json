@@ -1,0 +1,9 @@
+{
+  "cmake.sourceDirectory": "/Users/jhurliman/Documents/Code/jhurliman/pineapple/components/arduino",
+  "files.associations": {
+    "string": "cpp",
+    "limits": "cpp",
+    "chrono": "cpp",
+    "algorithm": "cpp"
+  }
+}
